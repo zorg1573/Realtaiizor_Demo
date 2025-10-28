@@ -57,7 +57,7 @@
             airRadioButton1.Location = new Point(12, 12);
             airRadioButton1.Name = "airRadioButton1";
             airRadioButton1.NoRounding = false;
-            airRadioButton1.Size = new Size(110, 17);
+            airRadioButton1.Size = new Size(110, 16);
             airRadioButton1.TabIndex = 0;
             airRadioButton1.Text = "airRadioButton1";
             airRadioButton1.Transparent = false;
